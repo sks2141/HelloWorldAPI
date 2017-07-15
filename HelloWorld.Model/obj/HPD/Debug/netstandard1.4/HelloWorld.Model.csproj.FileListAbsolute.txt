@@ -1,0 +1,6 @@
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Model\bin\HPD\Debug\netstandard1.4\HelloWorld.Model.deps.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Model\bin\HPD\Debug\netstandard1.4\HelloWorld.Model.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Model\bin\HPD\Debug\netstandard1.4\HelloWorld.Model.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Model\obj\HPD\Debug\netstandard1.4\HelloWorld.Model.AssemblyInfo.cs
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Model\obj\HPD\Debug\netstandard1.4\HelloWorld.Model.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Model\obj\HPD\Debug\netstandard1.4\HelloWorld.Model.pdb

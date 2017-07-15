@@ -1,0 +1,11 @@
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\bin\Debug\netstandard1.4\HelloWorld.Repository.deps.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\bin\Debug\netstandard1.4\HelloWorld.Repository.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\bin\Debug\netstandard1.4\HelloWorld.Repository.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\bin\Debug\netstandard1.4\HelloWorld.Model.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\bin\Debug\netstandard1.4\HelloWorld.Model.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\obj\Debug\netstandard1.4\HelloWorld.Repository.csprojResolveAssemblyReference.cache
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\obj\Debug\netstandard1.4\HelloWorld.Repository.AssemblyInfo.cs
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\obj\Debug\netstandard1.4\HelloWorld.Repository.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\obj\Debug\netstandard1.4\HelloWorld.Repository.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\bin\Debug\netstandard1.4\HelloWorld.Utilities.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Repository\bin\Debug\netstandard1.4\HelloWorld.Utilities.pdb

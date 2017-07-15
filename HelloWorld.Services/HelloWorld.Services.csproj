@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="1.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HelloWorld.Domain\HelloWorld.ViewModel.csproj" />
+    <ProjectReference Include="..\HelloWorld.Model\HelloWorld.Model.csproj" />
+    <ProjectReference Include="..\HelloWorld.Repository\HelloWorld.DataAccess.csproj" />
+    <ProjectReference Include="..\HelloWorld.Utilities\HelloWorld.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

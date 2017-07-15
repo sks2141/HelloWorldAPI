@@ -1,0 +1,9 @@
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\bin\Debug\netcoreapp1.1\HelloWorld.Console.deps.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\bin\Debug\netcoreapp1.1\HelloWorld.Console.runtimeconfig.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\bin\Debug\netcoreapp1.1\HelloWorld.Console.runtimeconfig.dev.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\obj\Debug\netcoreapp1.1\HelloWorld.Console.csprojResolveAssemblyReference.cache
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\obj\Debug\netcoreapp1.1\HelloWorld.Console.AssemblyInfo.cs
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\bin\Debug\netcoreapp1.1\HelloWorld.Console.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\bin\Debug\netcoreapp1.1\HelloWorld.Console.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\obj\Debug\netcoreapp1.1\HelloWorld.Console.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Console\obj\Debug\netcoreapp1.1\HelloWorld.Console.pdb

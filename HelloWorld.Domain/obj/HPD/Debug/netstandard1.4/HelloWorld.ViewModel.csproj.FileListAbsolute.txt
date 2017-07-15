@@ -1,0 +1,6 @@
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\HPD\Debug\netstandard1.4\HelloWorld.ViewModel.deps.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\HPD\Debug\netstandard1.4\HelloWorld.ViewModel.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\HPD\Debug\netstandard1.4\HelloWorld.ViewModel.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\HPD\Debug\netstandard1.4\HelloWorld.ViewModel.AssemblyInfo.cs
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\HPD\Debug\netstandard1.4\HelloWorld.ViewModel.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\HPD\Debug\netstandard1.4\HelloWorld.ViewModel.pdb

@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.DataAccess", "HelloWorld.Repository\HelloWorld.DataAccess.csproj", "{892FCADC-8193-41BE-8BEF-96A95EF6A61B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.ViewModel", "HelloWorld.Domain\HelloWorld.ViewModel.csproj", "{AC3F9C93-1FDA-4459-98AA-59C0CC162767}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Model", "HelloWorld.Model\HelloWorld.Model.csproj", "{9D79555F-51CE-482B-BC0D-55F8665063A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Services", "HelloWorld.Services\HelloWorld.Services.csproj", "{A2337BF0-0178-43BD-8979-08FE42117943}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{539C39AF-29C5-461C-901C-6E8AF608459C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{66258DD0-A298-4318-9944-00782C235558}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.Utilities", "HelloWorld.Utilities\HelloWorld.Utilities.csproj", "{4FB7B70E-66A1-447C-8EBE-320DE061C6AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{22135732-8F4E-47AE-AA0E-ECD9ACF609B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.API", "HelloWorld.API\HelloWorld.API.csproj", "{541F1D2F-509C-4CA7-B630-41E56D36345F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.API.UnitTests", "HelloWorld.API.UnitTests\HelloWorld.API.UnitTests.csproj", "{10F7941D-3B45-43F2-AC13-E1F61BD40EE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.ConsoleApp", "HelloWorld.Console\HelloWorld.ConsoleApp.csproj", "{AD42DF8B-D868-413C-8AB2-7DBB86C081EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WebApp", "HelloWorld.WebApp\HelloWorld.WebApp.csproj", "{6B1AA509-3820-440C-978A-9A0604A9EF9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892FCADC-8193-41BE-8BEF-96A95EF6A61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892FCADC-8193-41BE-8BEF-96A95EF6A61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892FCADC-8193-41BE-8BEF-96A95EF6A61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892FCADC-8193-41BE-8BEF-96A95EF6A61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3F9C93-1FDA-4459-98AA-59C0CC162767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3F9C93-1FDA-4459-98AA-59C0CC162767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3F9C93-1FDA-4459-98AA-59C0CC162767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3F9C93-1FDA-4459-98AA-59C0CC162767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D79555F-51CE-482B-BC0D-55F8665063A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D79555F-51CE-482B-BC0D-55F8665063A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D79555F-51CE-482B-BC0D-55F8665063A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D79555F-51CE-482B-BC0D-55F8665063A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2337BF0-0178-43BD-8979-08FE42117943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2337BF0-0178-43BD-8979-08FE42117943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2337BF0-0178-43BD-8979-08FE42117943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2337BF0-0178-43BD-8979-08FE42117943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB7B70E-66A1-447C-8EBE-320DE061C6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB7B70E-66A1-447C-8EBE-320DE061C6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB7B70E-66A1-447C-8EBE-320DE061C6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB7B70E-66A1-447C-8EBE-320DE061C6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541F1D2F-509C-4CA7-B630-41E56D36345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541F1D2F-509C-4CA7-B630-41E56D36345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541F1D2F-509C-4CA7-B630-41E56D36345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541F1D2F-509C-4CA7-B630-41E56D36345F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F7941D-3B45-43F2-AC13-E1F61BD40EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F7941D-3B45-43F2-AC13-E1F61BD40EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F7941D-3B45-43F2-AC13-E1F61BD40EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F7941D-3B45-43F2-AC13-E1F61BD40EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD42DF8B-D868-413C-8AB2-7DBB86C081EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD42DF8B-D868-413C-8AB2-7DBB86C081EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD42DF8B-D868-413C-8AB2-7DBB86C081EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD42DF8B-D868-413C-8AB2-7DBB86C081EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1AA509-3820-440C-978A-9A0604A9EF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1AA509-3820-440C-978A-9A0604A9EF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1AA509-3820-440C-978A-9A0604A9EF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1AA509-3820-440C-978A-9A0604A9EF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{892FCADC-8193-41BE-8BEF-96A95EF6A61B} = {539C39AF-29C5-461C-901C-6E8AF608459C}
+		{AC3F9C93-1FDA-4459-98AA-59C0CC162767} = {66258DD0-A298-4318-9944-00782C235558}
+		{9D79555F-51CE-482B-BC0D-55F8665063A7} = {539C39AF-29C5-461C-901C-6E8AF608459C}
+		{A2337BF0-0178-43BD-8979-08FE42117943} = {66258DD0-A298-4318-9944-00782C235558}
+		{4FB7B70E-66A1-447C-8EBE-320DE061C6AB} = {539C39AF-29C5-461C-901C-6E8AF608459C}
+		{AD42DF8B-D868-413C-8AB2-7DBB86C081EB} = {22135732-8F4E-47AE-AA0E-ECD9ACF609B2}
+		{6B1AA509-3820-440C-978A-9A0604A9EF9F} = {22135732-8F4E-47AE-AA0E-ECD9ACF609B2}
+	EndGlobalSection
+EndGlobal

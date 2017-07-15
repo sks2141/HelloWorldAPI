@@ -1,0 +1,6 @@
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\netstandard1.4\HelloWorld.DTO.deps.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\netstandard1.4\HelloWorld.DTO.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\netstandard1.4\HelloWorld.DTO.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\netstandard1.4\HelloWorld.DTO.AssemblyInfo.cs
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\netstandard1.4\HelloWorld.DTO.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\netstandard1.4\HelloWorld.DTO.pdb

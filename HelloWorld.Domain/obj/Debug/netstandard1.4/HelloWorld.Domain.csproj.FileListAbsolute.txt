@@ -1,0 +1,7 @@
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\netstandard1.4\HelloWorld.Domain.deps.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\netstandard1.4\HelloWorld.Domain.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\netstandard1.4\HelloWorld.Domain.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\netstandard1.4\HelloWorld.Domain.csprojResolveAssemblyReference.cache
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\netstandard1.4\HelloWorld.Domain.AssemblyInfo.cs
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\netstandard1.4\HelloWorld.Domain.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\netstandard1.4\HelloWorld.Domain.pdb

@@ -1,0 +1,9 @@
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\bin\Debug\netcoreapp1.1\HelloWorld.Core.API.deps.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\bin\Debug\netcoreapp1.1\HelloWorld.Core.API.runtimeconfig.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\bin\Debug\netcoreapp1.1\HelloWorld.Core.API.runtimeconfig.dev.json
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\bin\Debug\netcoreapp1.1\HelloWorld.Core.API.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\bin\Debug\netcoreapp1.1\HelloWorld.Core.API.pdb
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\obj\Debug\netcoreapp1.1\HelloWorld.Core.API.csprojResolveAssemblyReference.cache
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\obj\Debug\netcoreapp1.1\HelloWorld.Core.API.AssemblyInfo.cs
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\obj\Debug\netcoreapp1.1\HelloWorld.Core.API.dll
+C:\Users\saket_000\Desktop\HelloWorld\HelloWorld.Core.API\obj\Debug\netcoreapp1.1\HelloWorld.Core.API.pdb
